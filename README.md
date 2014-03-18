@@ -31,12 +31,12 @@ Example:
 ```
 Your IP Address        : 192.168.1.10
 Your MAC Address       : 5c:90:a3:26:49:55
+Your Host Name         : mylaptop
 Subnet Mask            : 255.255.255.0
 Router IP Address      : 192.168.1.1
 DHCP Server IP Address : 192.168.1.1
 DNS Server IP Address  : 222.222.128.1
 DNS Server IP Address  : 222.222.128.2
-Your Host Name         : mylaptop
 IP Address Lease Time  : 12:00 h (43200 s)
 Renewal Time Value     : 6:00 h (21600 s)
 Rebinding Time Value   : 10:30 h (37800 s)
