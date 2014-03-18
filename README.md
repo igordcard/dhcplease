@@ -33,14 +33,17 @@ Your IP Address        : 192.168.1.10
 Your MAC Address       : 5c:90:a3:26:49:55
 Subnet Mask            : 255.255.255.0
 Router IP Address      : 192.168.1.1
-IP Address Lease Time  : 1:00 h (3600 s)
 DHCP Server IP Address : 192.168.1.1
 DNS Server IP Address  : 222.222.128.1
 DNS Server IP Address  : 222.222.128.2
+Your Host Name         : mylaptop
+IP Address Lease Time  : 12:00 h (43200 s)
+Renewal Time Value     : 6:00 h (21600 s)
+Rebinding Time Value   : 10:30 h (37800 s)
 ```
 
 instead of:
-<code>cat /var/lib/dhcpcd/dhcpcd-wlp3s0.lease </code>
+<code>cat /var/lib/dhcpcd/dhcpcd-wlp3s0.lease</code>
 ```
 �������L��6Qc�Sc5����@36�䀜���
 ```
